@@ -16,10 +16,10 @@ const QuizList = () => {
     }
 
     useEffect(() => {
-        axios.get('/api/quizzes')
-          .then(response => setQuizzes(response.data))
-          .catch(error => console.log(error));
-        getQuiz()
+        // axios.get('/api/quizzes')
+        //   .then(response => setQuizzes(response.data))
+        //   .catch(error => console.log(error));
+        // getQuiz()
     }, []);
 
     return (
