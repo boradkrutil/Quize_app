@@ -9,8 +9,8 @@ A full-stack Quiz Application where users can take quizzes and view their scores
 - Backend APIs provide quiz data and handle quiz submissions.
 
 ## Live Demo
-- **Frontend**: [Quiz App Frontend](https://quiz-app-nine-green.vercel.app/)
-- **Backend**: [Quiz App Backend](https://quiz-app-1123.onrender.com/)
+- **Frontend**: [Quiz App Frontend](https://quize-app-frontend-ashen.vercel.app/)
+- **Backend**: [Quiz App Backend](https://quize-app-seven.vercel.app/)
 
 ## Tech Stack
 - **Frontend**: React.js, React Router, React Toastify, HTML, CSS
