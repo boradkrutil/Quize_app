@@ -2,8 +2,8 @@ import axios from "axios"
 
 class Api{
     constructor(){
-        this.baseUrl = "http://localhost:5000"
-        // this.baseUrl = "https://quiz-app-1123.onrender.com"
+        // this.baseUrl = "http://localhost:5000"
+        this.baseUrl = "https://quize-app-krutil-borads-projects.vercel.app/"
     }
 
     listAllQuiz(){

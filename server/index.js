@@ -14,7 +14,7 @@ connectDB()
 app.use('/api', quizRoutes);
 
 app.get('/', (req,res) => {
-    return res.status(200).send({message:"Success"})
+    return res.status(200).send("<center><h1>Backend Server is Runnung....</h1></center>")
 })
 app.listen(process.env.PORT, () => {
   console.log(`Server is running on port ${process.env.PORT}`);
