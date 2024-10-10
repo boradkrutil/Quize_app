@@ -3,7 +3,7 @@ import axios from "axios"
 class Api{
     constructor(){
         // this.baseUrl = "http://localhost:5000"
-        this.baseUrl = "https://quize-app-krutil-borads-projects.vercel.app"
+        this.baseUrl = "https://quize-app-seven.vercel.app"
     }
 
     listAllQuiz(){
